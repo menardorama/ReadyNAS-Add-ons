@@ -1,0 +1,10 @@
+Package: headphones
+Version: 1.0.0
+Architecture: armel
+Maintainer: Thomas Menard <menardorama@gmail.com>
+Installed-Size: 26884
+Depends: readynasos (>= 6.0.5~T1271), lame, ffmpeg
+Section: contrib
+Priority: extra
+Homepage: http://www.readynas.com
+Description: Headphones music downloader

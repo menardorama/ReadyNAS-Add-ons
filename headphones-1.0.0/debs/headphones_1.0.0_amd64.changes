@@ -1,0 +1,22 @@
+Format: 1.8
+Date: Fri, 11 Sep 2015 17:54:37 -0800
+Source: headphones
+Binary: headphones
+Architecture: amd64
+Version: 1.0.0
+Distribution: stable
+Urgency: low
+Maintainer: Thomas Menard <menardorama@gmail.com>
+Changed-By: Thomas Menard <menardorama@gmail.com>
+Description: 
+ headphones - Headphones music downloader
+Changes: 
+ headphones (1.0.0) stable; urgency=low
+ .
+   * Headphones initial release. readynasos debian package.
+Checksums-Sha1: 
+ 59089316a259082d4bfa4dd5150880c530f1c902 8357032 headphones_1.0.0_amd64.deb
+Checksums-Sha256: 
+ 45cdcd8e6028b77cc70804d4191b0d781cd23faf055f6758cb7c5be30302c27b 8357032 headphones_1.0.0_amd64.deb
+Files: 
+ 65b93cf6b143d14c636c83a6aaf07a3d 8357032 contrib extra headphones_1.0.0_amd64.deb

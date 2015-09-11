@@ -1,0 +1,12 @@
+<Application resource-id="headphones"><!-- 'resource-id' must be AppName -->
+  <Name>Headphones</Name><!-- Any desciptive name, upto 48 chars -->
+  <Author>ReadyNAS Xtras</Author><!-- Authors name. upto 48 chars -->
+  <Version>0.0.1</Version><!-- Version -->
+  <RequireReboot>0</RequireReboot><!-- If non-zero, it indicate reboot is required. -->
+  <LaunchURL>https://localhost:8082</LaunchURL><!-- 'localhost' will be replaced by framework JS. -->
+  <ConfigURL></ConfigURL>
+  <ReservePort>8082</ReservePort>
+  <DebianPackage>headphones</DebianPackage>
+  <ServiceName>fvapp-headphones.service</ServiceName>
+  <Description lang="en-us">Headphones - Search Music</Description>
+</Application>

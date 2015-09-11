@@ -1,0 +1,14 @@
+<Application resource-id="headphone">
+	<Name>Headphone for ReadyNAS 6</Name>
+	<Author>Menardo</Author>
+	<Version>0.0.1</Version>
+	<RequireReboot>0</RequireReboot>
+	<LaunchURL>http://localhost:8082</LaunchURL>
+	<ConfigURL></ConfigURL>
+	<InfoURL lang="en-us">https://github.com/rembo10/headphones/issues</InfoURL>
+	<SupporterdSystype>RN102</SupportedSystype>
+	<ResevePort>8082</ReservePort>
+	<DebianPackage>headphones</DebianPackage>
+	<ServiceName>fvapp-headphones.service</ServiceName>
+	<Description lang="en-us">Headphones - Search Music</Description>
+</Application>

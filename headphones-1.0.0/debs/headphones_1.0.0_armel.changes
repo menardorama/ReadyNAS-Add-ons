@@ -1,0 +1,22 @@
+Format: 1.8
+Date: Fri, 11 Sep 2015 17:54:37 -0800
+Source: headphones
+Binary: headphones
+Architecture: armel
+Version: 1.0.0
+Distribution: stable
+Urgency: low
+Maintainer: Thomas Menard <menardorama@gmail.com>
+Changed-By: Thomas Menard <menardorama@gmail.com>
+Description: 
+ headphones - Headphones music downloader
+Changes: 
+ headphones (1.0.0) stable; urgency=low
+ .
+   * Headphones initial release. readynasos debian package.
+Checksums-Sha1: 
+ 089c5a06c3a1e85f133069bbd5bafc1b4cc7fad9 8357020 headphones_1.0.0_armel.deb
+Checksums-Sha256: 
+ 36d152c56b1603af5ff5451ad10cbbe61bbc66bbd7ef6f2f664743eb376f83ac 8357020 headphones_1.0.0_armel.deb
+Files: 
+ c47ce1282825abbdfb2d6dc196152e82 8357020 contrib extra headphones_1.0.0_armel.deb

@@ -1,0 +1,15 @@
+Source: headphones
+Section: contrib
+Priority: extra
+Maintainer: Thomas Menard <menardorama@gmail.com>
+Build-Depends: python (>= 2.6.0)
+Standards-Version: 3.9.3
+Homepage: http://www.readynas.com
+
+Package: headphones
+Architecture: amd64 armel
+Depends: readynasos (>= 6.0.5~T1271), lame, ffmpeg
+Description: Headphones music downloader
+
+
+
